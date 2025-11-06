@@ -17,7 +17,7 @@ DB_PASSWORD=dbpasword
 OMDBAPI_KEY=yoromdbapikey #from omdbapi.com
 
 
-To star project I have to start desktop docker, open wsl ubuntu in project dir and run these commands 
+To run project I have to start desktop docker, open wsl ubuntu in project dir and run these commands 
 
 composer install
 
